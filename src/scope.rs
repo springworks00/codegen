@@ -18,7 +18,7 @@ use crate::r#trait::Trait;
 ///
 /// A scope contains modules, types, etc...
 #[derive(Debug, Clone)]
-//pub struct Scope {
+pub struct Scope {
     /// Scope documentation
     docs: Option<Docs>,
 
