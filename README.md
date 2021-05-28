@@ -1,6 +1,6 @@
 # Codegen
 
-Forked to add a few expression types for convenience.
+Forked to add more AST components.
 
 ## License
 
